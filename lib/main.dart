@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:path_provider/path_provider.dart';
 
-var _apikey = "AIzaSyDTP483OPIEeAjVcnUSazrvpOm0gxpjExc";
+var _apikey = "your key";
 AudioPlayer audioPlayer = AudioPlayer();
 
 void main() {
